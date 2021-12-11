@@ -1,0 +1,151 @@
+srno.,Product_id,Product_name,Product_rating
+1,205073,mascara,2
+2,466508,cc cream,4
+3,370064,cc cream,3
+4,463640,sneakers,2
+5,259846,mascara,2
+6,139427,sneakers,1
+7,653605,pants,2
+8,199177,mascara,3
+9,681221,sneakers,1
+10,140559,cc cream,3
+11,169550,bags,3
+12,672173,pants,3
+13,334372,cc cream,2
+14,182518,mascara,3
+15,241713,bags,1
+16,436551,cc cream,1
+17,501955,cc cream,2
+18,454654,sneakers,3
+19,443663,pants,5
+20,224980,pants,2
+21,148405,sneakers,1
+22,404962,pants,5
+23,639333,cc cream,1
+24,461887,mascara,4
+25,127284,cc cream,3
+26,369223,cc cream,1
+27,570358,cc cream,5
+28,386469,bags,1
+29,402412,pants,4
+30,426005,bags,1
+31,378651,sneakers,3
+32,128749,sneakers,2
+33,107497,pants,3
+34,149136,mascara,4
+35,309369,bags,2
+36,546975,cc cream,2
+37,420456,pants,4
+38,694061,cc cream,2
+39,466870,mascara,1
+40,483198,bags,4
+41,451447,cc cream,2
+42,667236,mascara,5
+43,373724,sneakers,2
+44,314135,pants,1
+45,535791,pants,5
+46,671081,bags,3
+47,419874,cc cream,3
+48,662872,bags,2
+49,670461,sneakers,5
+50,166527,cc cream,1
+51,253106,bags,4
+52,232835,sneakers,1
+53,139723,sneakers,5
+54,262079,bags,1
+55,279019,bags,4
+56,502215,mascara,3
+57,379123,mascara,1
+58,360743,sneakers,4
+59,177621,pants,1
+60,559978,sneakers,1
+61,199203,pants,1
+62,291442,pants,2
+63,449168,sneakers,5
+64,352089,pants,4
+65,464906,bags,1
+66,192735,pants,5
+67,472260,cc cream,4
+68,209334,bags,5
+69,619766,mascara,2
+70,123977,cc cream,3
+71,626928,cc cream,2
+72,550175,sneakers,1
+73,671487,pants,5
+74,324747,mascara,3
+75,547186,sneakers,4
+76,657044,pants,5
+77,139058,pants,2
+78,252176,sneakers,4
+79,593171,cc cream,1
+80,272279,mascara,4
+81,414723,sneakers,5
+82,589431,pants,2
+83,336917,sneakers,3
+84,142376,sneakers,4
+85,316773,bags,2
+86,668902,bags,2
+87,376445,mascara,5
+88,309300,cc cream,5
+89,370400,sneakers,4
+90,260057,cc cream,4
+91,659852,mascara,5
+92,572696,pants,1
+93,294203,mascara,5
+94,127512,sneakers,1
+95,285921,sneakers,3
+96,473736,cc cream,1
+97,120185,cc cream,3
+98,194697,mascara,5
+99,640413,bags,2
+100,130109,pants,2
+102,349429,pants,4
+103,304001,mascara,3
+104,450656,mascara,2
+105,117164,sneakers,2
+106,485562,sneakers,3
+107,328714,bags,3
+108,422622,cc cream,2
+109,271229,bags,2
+110,602384,sneakers,3
+111,571227,cc cream,3
+112,645286,heels,3
+113,138253,cc cream,1
+114,304622,sweatshirt,2
+115,298703,cc cream,4
+116,551621,sweatshirt,5
+117,513582,cc cream,3
+118,373061,sweatshirt,3
+119,300640,sneakers,4
+120,424875,sneakers,2
+121,381188,cc cream,4
+122,358950,bags,3
+123,398899,mascara,3
+124,208368,cc cream,4
+125,622318,sweatshirt,2
+126,698976,mascara,3
+127,102509,sneakers,1
+128,234802,sneakers,5
+129,651578,bags,5
+130,683446,mascara,4
+131,462869,sweatshirt,4
+132,322512,heels,4
+133,230398,mascara,1
+134,533742,cc cream,5
+135,396867,sweatshirt,3
+136,501410,cc cream,3
+137,582016,heels,3
+138,539309,bags,5
+139,309088,heels,2
+140,537532,cc cream,3
+141,615051,pants,3
+142,443798,heels,4
+143,656676,bags,3
+144,163450,mascara,4
+145,656461,mascara,4
+146,401600,sweatshirt,2
+147,234212,sweatshirt,1
+148,519592,pants,4
+149,349792,pants,1
+150,119582,heels,2
+151,291732,cc cream,1

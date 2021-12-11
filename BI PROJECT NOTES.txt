@@ -1,0 +1,111 @@
+SHOW databases; 
+
+use mysql
+
+
+CREATE TABLE products (
+    date DATE NOT NULL, 
+    product_id INT NOT NULL,
+    product_name VARCHAR(255) NOT NULL,
+    rating INT NOT NULL,
+    product_type VARCHAR(255) NOT NULL,
+    brand_id INT NOT NULL,
+    brand_name VARCHAR(255) NOT NULL,
+    brand_pop VARCHAR(255) NOT NULL,
+    profit INT NOT NULL, 
+    location VARCHAR(255) NOT NULL,
+    purchase INT NOT NULL, 
+    sale INT NOT NULL 
+);
+
+PATH: C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/
+
+LOAD DATA INFILE 'C:/ProgramData/MySQL/mysqlsh/BI_Projects' 
+INTO TABLE products 
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+---------------------------------------------------------------------------------------------------------------------------
+ CREATE TABLE product (
+           srno INT NOT NULL,
+           product_id INT NOT NULL,
+           primary key(product_id),
+           product_name VARCHAR(255) NOT NULL,
+           rating INT NOT NULL
+     );
+
+LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/Product_BI.csv' 
+INTO TABLE product 
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+----------------------------------------------------------------------------------------------------------------------------
+CREATE TABLE brand (
+    srno INT NOT NULL, 
+    brand_id INT NOT NULL,
+    primary key(brand_id),
+    brand_name VARCHAR(255) NOT NULL,
+    brand_pop VARCHAR(255) NOT NULL
+);
+
+
+LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/Brand_BI.csv' 
+INTO TABLE brand 
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+---------------------------------------------------------------------------------------------------------------------------------
+CREATE TABLE DATE1 (
+   srno INT NOT NULL,
+    Day int,
+    Month int,
+    Year int
+);
+LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/Date.csv' 
+INTO TABLE DATE1 
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+-----------------------------------------------------------------------------------------------------------------------------------
+CREATE TABLE Fact_Table(
+    profit INT NOT NULL,
+    sale INT NOT NULL,   
+    product_id INT references product(product_id),
+    brand_id INT references brand(brand_id),
+    location_id INT NOT NULL,
+    rating INT NOT NULL,
+    purchase INT NOT NULL 
+    
+);
+LOAD DATA INFILE  'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/Fact_Table.csv'
+INTO TABLE Fact_Table
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+
+
+
+
+ C:\ProgramData\MySQL\MySQL Server 8.0\Uploads\
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+CREATE TABLE Location(
+    location_id INT NOT NULL,
+    city VARCHAR(255) NOT NULL,
+    state VARCHAR(255) NOT NULL,
+    country VARCHAR(255) NOT NULL
+    
+);
+LOAD DATA INFILE  'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/LOCATION.csv'
+INTO TABLE LOCATION
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+

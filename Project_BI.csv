@@ -1,0 +1,151 @@
+Date,Product_id,Product_name,Product_type,Product_rating,Brand_id,Brand_name,Brand_popularity,Profit,City,State,Country,Location_id,Purchase,Sales
+20210302,733299,cc cream,cosmetic,3,503023,Lakme,High,88,Gandhi Nagar,"Gujarat	",India,904088,343801,483532
+20190407,332197,pants,cloths,4,188340,Spykar,Medium,100,Cuttack,"Odisha	",India,131447,451702,989494
+20210710,367059,mascara,cosmetic,5,216822,Lakme,High,79,Itanagar,Arunachal Pradesh,India,705467,406701,109860
+20191015,342561,sneakers,cloths,3,688001,addidas,High,84,Surat,"Gujarat	",India,616920,647425,155585
+20200528,846280,pants,cloths,1,145288,Spykar,Medium,58,Agartala,"Tripura		",India,129031,669412,450961
+20200717,620601,cc cream,cosmetic,3,965037,Lakme,High,60,Chandel,"Manipur	",India,723444,749385,958090
+20190130,573257,sneakers,cloths,4,655408,addidas,High,79,Panipat,"Haryana	",India,307767,283473,942831
+20210529,767721,mascara,cosmetic,3,410588,Lakme,High,78,Mangan,"Sikkim	",India,367429,619027,313533
+20210305,235424,bags,accessories,2,405395,Skybags,Medium,95,Jhansi,"Uttar Pradesh	",India,147231,677921,232792
+20210925,397160,mascara,cosmetic,5,128608,Lakme,High,51,Pune,"Maharashtra	",India,996192,254092,692300
+20201014,960104,bags,accessories,1,804210,Skybags,Medium,54,Shimla,"Himachal Pradesh	",India,168095,816861,209446
+20210622,236556,mascara,cosmetic,2,263633,Lakme,High,91,Jaipur,"Rajasthan	",India,693131,334418,876770
+20210205,586469,cc cream,cosmetic,5,435561,Lakme,High,61,Kolkata,West Bengal,India,102841,264390,494177
+20210310,455327,mascara,cosmetic,2,755232,Lakme,High,72,Agartala,"Tripura		",India,196664,261419,200740
+20190201,639686,cc cream,cosmetic,4,646642,Lakme,High,71,Bangaluru,"Karnataka	",India,296084,867470,959832
+20211008,339238,pants,cloths,4,326017,Spykar,Medium,87,Champhai,"Mizoram	",India,768152,103824,946602
+20211119,899727,mascara,cosmetic,4,433810,Lakme,High,81,Udaipur,"Tripura		",India,883945,437997,400563
+20191217,339522,cc cream,cosmetic,4,733636,Lakme,High,62,Guntur,Andhra Pradesh,India,270878,843739,308191
+20200404,558674,heels,cloths,3,616414,Mochi,High,68,Bhubneshwar,"Odisha	",India,761905,439990,701629
+20190227,452247,heels,cloths,2,946655,Mochi,High,91,Kohima,"Nagaland	",India,793467,204368,129177
+20190113,241145,pants,cloths,3,787066,Spykar,Medium,54,Abhanpur,"Chhattisgarh	",India,696679,888988,245768
+20190624,427521,pants,cloths,2,224789,Spykar,Medium,50,Shimla,"Himachal Pradesh	",India,613660,266358,291850
+20190429,948265,sweatshirt,cloths,4,425570,Puma,Medium,95,Amarpur,Bihar,India,229324,396672,762958
+20200919,859805,sneakers,cloths,3,632162,addidas,High,58,Champai,"Mizoram	",India,972095,926371,511991
+20190716,230996,sneakers,cloths,3,758306,addidas,High,85,Imphal,"Manipur	",India,871509,575351,766839
+20190810,906496,sweatshirt,cloths,2,132328,Puma,Medium,71,Mangan,"Sikkim	",India,893269,847111,869024
+20210707,243806,pants,cloths,3,447090,Spykar,Medium,66,Alagdiha,"Jharkhand	",India,167452,543730,850210
+20190423,414038,pants,cloths,3,575080,Spykar,Medium,89,Alagdiha,"Jharkhand	",India,944279,965622,246236
+20201112,516675,pants,cloths,2,462057,Spykar,Medium,78,Kollam,"Kerala	",India,919555,581625,973169
+20200103,186865,bags,accessories,1,262554,Skybags,Medium,61,Guntur,Andhra Pradesh,India,138477,359266,800039
+20190905,407967,heels,cloths,2,858755,Mochi,High,70,Pangoot,"Uttarakhand	",India,482923,789555,352791
+20190803,274898,sweatshirt,cloths,2,811513,Puma,Medium,69,Chennai,"Tamil Nadu	",India,184868,235165,924966
+20190201,351824,mascara,cosmetic,1,674104,Lakme,High,55,Anwari,Assam,India,261430,998697,770495
+20200421,498709,mascara,cosmetic,2,696930,Lakme,High,75,Baghalpur,Bihar,India,354992,934543,555478
+20191009,830188,sneakers,cloths,4,384229,addidas,High,69,Lucknow,"Uttar Pradesh	",India,857641,762946,649233
+20210418,850595,pants,cloths,2,653642,Spykar,Medium,94,Ahmedabad,"Gujarat	",India,318470,427422,580784
+20190213,507595,mascara,cosmetic,3,209459,Lakme,High,81,Shillong,"Meghalaya	",India,425823,894925,451969
+20190521,357605,mascara,cosmetic,1,655244,Lakme,High,82,Mnagan,"Sikkim	",India,153712,372846,267813
+20200921,250909,cc cream,cosmetic,3,153603,Lakme,High,78,Meerut,"Uttar Pradesh	",India,415600,974117,102760
+20200310,504832,cc cream,cosmetic,3,467410,Lakme,High,86,Guntur,Andhra Pradesh,India,905439,709801,169306
+20210331,644765,mascara,cosmetic,5,970229,Lakme,High,61,Thiruvanathapuram,"Kerala	",India,937002,433873,107717
+20200613,957220,pants,cloths,4,815106,Spykar,Medium,73,Patna,Bihar,India,960048,692721,678059
+20200620,512968,cc cream,cosmetic,4,645647,Lakme,High,79,Hubli,"Karnataka	",India,137514,167470,502985
+20191127,633811,cc cream,cosmetic,3,224532,Lakme,High,59,Khowai,"Tripura		",India,518389,816707,531914
+20201012,432194,cc cream,cosmetic,3,384571,Lakme,High,72,Guwahati,Assam,India,501929,705232,862894
+20210414,692076,bags,accessories,1,552501,Skybags,Medium,71,Warangal,"Telangana	",India,604572,476409,485300
+20191007,304960,cc cream,cosmetic,5,589981,Lakme,High,77,Warangal,"Telangana	",India,689336,220985,332779
+20191226,655008,cc cream,cosmetic,3,867952,Lakme,High,86,Kakching,"Manipur	",India,607753,215409,984857
+20200701,516406,bags,accessories,4,127676,Skybags,Medium,71,Coimbatore,"Tamil Nadu	",India,413439,869397,773342
+20190123,657953,pants,cloths,2,798890,Spykar,Medium,92,East Siang,Arunachal Pradesh,India,639145,255424,587503
+20210519,288949,heels,cloths,1,197691,Mochi,High,85,Ambala,"Haryana	",India,797729,388429,655646
+20211114,622009,mascara,cosmetic,2,439464,Lakme,High,69,Aizwal,"Mizoram	",India,797150,431105,829037
+20201120,347358,bags,accessories,4,185323,Skybags,Medium,71,Ahemdabad,"Gujarat	",India,947107,215804,898135
+20210820,421940,bags,accessories,5,643782,Skybags,Medium,86,Raipur,"Chhattisgarh	",India,448898,686921,519441
+20190924,904673,heels,cloths,3,253012,Mochi,High,72,Bhopal,"Madhya Pradesh	",India,807580,796292,230010
+20200907,622578,bags,accessories,1,550287,Skybags,Medium,92,Gulbarga,"Karnataka	",India,225533,303567,703513
+20200314,629950,bags,accessories,5,369829,Skybags,Medium,62,Dehradhun,"Uttarakhand	",India,870565,476865,472317
+20210610,421888,sweatshirt,cloths,2,745451,Puma,Medium,78,Imphal,"Manipur	",India,589078,152774,280269
+20201129,699160,sweatshirt,cloths,1,258533,Puma,Medium,63,Bidar,"Karnataka	",India,311577,386915,189166
+20200805,919086,heels,cloths,2,845368,Mochi,High,71,Aanand,"Gujarat	",India,473893,989811,292401
+20190913,768483,sneakers,cloths,4,497305,addidas,High,83,Ahemdabad,"Gujarat	",India,856758,337473,686780
+20210205,820160,sneakers,cloths,5,285333,addidas,High,81,Ambala,"Haryana	",India,882012,236430,901107
+20210108,666140,cc cream,cosmetic,1,574307,Lakme,High,86,Chandigarh,"Punjab	",India,748737,877278,815889
+20200123,448221,sneakers,cloths,4,782896,addidas,High,85,Jaipur,"Rajasthan	",India,111466,209379,291632
+20191220,803599,pants,cloths,2,350478,Spykar,Medium,92,Dehradhun,"Uttarakhand	",India,413240,139587,393033
+20210716,765560,sneakers,cloths,4,771981,addidas,High,55,Guntur,Andhra Pradesh,India,189985,636245,759035
+20210616,161259,sneakers,cloths,1,149082,addidas,High,72,Chennai,"Tamil Nadu	",India,226649,135757,908626
+20201124,526227,sweatshirt,cloths,5,425491,Puma,Medium,86,Varanasi,"Uttar Pradesh	",India,888594,171218,784995
+20190925,864368,bags,accessories,3,497669,Skybags,Medium,67,Pune,"Maharashtra	",India,297853,886895,329718
+20190226,791760,bags,accessories,2,699948,Skybags,Medium,56,Itanagar,Arunachal Pradesh,India,530080,682579,550477
+20190912,758350,heels,cloths,4,163771,Mochi,High,60,Indore,"Madhya Pradesh	",India,276458,897147,261155
+20210131,483674,cc cream,cosmetic,2,731599,Lakme,High,54,Dehradun,"Uttarakhand	",India,263655,329578,896495
+20200930,765426,sneakers,cloths,1,723144,addidas,High,52,Chennai,"Tamil Nadu	",India,995101,878548,801880
+20190912,391789,mascara,cosmetic,4,412150,Lakme,High,57,Kohima,"Nagaland	",India,171446,472278,406419
+20210602,516964,bags,accessories,2,788361,Skybags,Medium,65,Ahemdabad,"Gujarat	",India,390836,796440,904526
+20210711,888141,heels,cloths,3,781905,Mochi,High,81,Dispur,Assam,India,329209,491675,992652
+20211008,254287,bags,accessories,1,667867,Skybags,Medium,78,Itanagar,Arunachal Pradesh,India,958851,605023,861666
+20191223,149698,cc cream,cosmetic,4,696675,Lakme,High,64,Patna,Bihar,India,663094,393845,490949
+20190404,815044,cc cream,cosmetic,3,123983,Lakme,High,89,Shillong,"Meghalaya	",India,193379,511008,847995
+20210616,706622,bags,accessories,2,244642,Skybags,Medium,73,Kohima,"Nagaland	",India,561410,316507,324807
+20190208,702370,cc cream,cosmetic,1,708014,Lakme,High,80,Aizwal,"Mizoram	",India,806986,257156,368263
+20200331,602816,bags,accessories,2,292801,Skybags,Medium,89,Kolkata,West Bengal,India,982644,932801,627997
+20200720,581913,mascara,cosmetic,4,672996,Lakme,High,94,Aanand,"Gujarat	",India,221695,319427,164896
+20200818,639911,cc cream,cosmetic,2,157067,Lakme,High,64,Dispur,Assam,India,102000,221646,797129
+20200102,709807,bags,accessories,3,217892,Skybags,Medium,61,Panji,"Goa	",India,633530,939697,674869
+20211004,361706,heels,cloths,2,656236,Mochi,High,52,Agartala,"Tripura		",India,584233,995190,272317
+20210813,689346,bags,accessories,3,915625,Skybags,Medium,59,Dehradhun,"Uttarakhand	",India,195798,874511,144439
+20190524,892496,sweatshirt,cloths,5,846098,Puma,Medium,60,Jaipur,"Rajasthan	",India,844578,497517,173415
+20190625,758410,mascara,cosmetic,2,256223,Lakme,High,64,Patna,Bihar,India,406534,152776,738930
+20210809,731542,heels,cloths,5,138146,Mochi,High,96,Mumbai,"Maharashtra	",India,261013,525212,242459
+20200726,964560,heels,cloths,4,556458,Mochi,High,98,Chennai,"Tamil Nadu	",India,629798,670520,593068
+20210521,942091,heels,cloths,5,682891,Mochi,High,76,Khunti,"Jharkhand	",India,281038,884602,183547
+20210511,668775,sneakers,cloths,4,323017,addidas,High,89,Udaipur,"Rajasthan	",India,821880,725332,227196
+20200605,976808,bags,accessories,2,953643,Skybags,Medium,57,Calangute,"Goa	",India,645261,466029,713228
+20200510,871908,pants,cloths,2,666870,Spykar,Medium,51,Kannur,"Kerala	",India,623219,392992,920632
+20200527,414711,bags,accessories,5,962002,Skybags,Medium,65,Itanagar,Arunachal Pradesh,India,770981,543904,591715
+20201221,799342,heels,cloths,4,426498,Mochi,High,77,Patna,Bihar,India,224135,301157,274163
+20191229,994375,pants,cloths,1,618107,Spykar,Medium,72,Raipur,"Chhattisgarh	",India,228956,319476,530815
+20190714,408107,mascara,cosmetic,2,863519,Lakme,High,75,Shillong,"Meghalaya	",India,557309,664111,325489
+20201231,596817,sneakers,cloths,5,273630,addidas,High,58,Kolkata,West Bengal,India,184340,219602,875256
+20201130,898338,pants,cloths,1,795343,Spykar,Medium,57,Itanagar,Arunachal Pradesh,India,141260,666775,851352
+20191021,465810,mascara,cosmetic,5,652589,Lakme,High,88,Calangute,"Goa	",India,397537,550382,875290
+20200308,480804,mascara,cosmetic,4,961404,Lakme,High,95,Raipur,"Chhattisgarh	",India,763481,398969,592061
+20190427,200910,sneakers,cloths,4,368286,addidas,High,79,Udaipur,"Rajasthan	",India,229625,779572,803415
+20211018,691153,sneakers,cloths,2,943677,addidas,High,75,Kolkata,West Bengal,India,689662,450525,478872
+20210216,495368,bags,accessories,1,549753,Skybags,Medium,72,Lucknow,"Uttar Pradesh	",India,557593,280444,371143
+20210110,138566,cc cream,cosmetic,5,576777,Lakme,High,72,Aizwal,"Mizoram	",India,752419,641610,217406
+20191104,273769,bags,accessories,4,125201,Skybags,Medium,90,Panaji,"Goa	",India,914453,213014,935924
+20190408,533585,sneakers,cloths,5,265244,addidas,High,100,Bidar,"Karnataka	",India,921685,799000,435639
+20200226,549404,cc cream,cosmetic,5,221325,Lakme,High,54,Kolkata,West Bengal,India,982551,283099,917574
+20190219,229254,heels,cloths,2,879013,Mochi,High,99,Ambala,"Haryana	",India,631142,136566,975605
+20190625,497308,cc cream,cosmetic,3,171844,Lakme,High,54,Bhubaneshwar,"Odisha	",India,199314,704578,520102
+20200511,168592,sweatshirt,cloths,3,186223,Puma,Medium,75,Thiruvanathapuram,"Kerala	",India,597034,121589,711205
+20190626,299496,cc cream,cosmetic,2,533690,Lakme,High,54,Patna,Bihar,India,479308,749869,966486
+20200923,370193,sweatshirt,cloths,3,801802,Puma,Medium,88,Kohima,"Nagaland	",India,685344,351170,494646
+20190715,854525,cc cream,cosmetic,1,314779,Lakme,High,80,Hyderabad,"Telangana	",India,979660,546740,972560
+20190103,608651,sweatshirt,cloths,2,955791,Puma,Medium,78,Indore,"Madhya Pradesh	",India,969000,750149,654399
+20201211,447542,sneakers,cloths,1,318616,addidas,High,73,Gangtok,"Sikkim	",India,497469,589390,363841
+20190910,193342,sneakers,cloths,3,946038,addidas,High,91,Agra,"Uttar Pradesh	",India,438888,364116,336548
+20191028,878519,cc cream,cosmetic,3,211454,Lakme,High,55,Kulllu,"Himachal Pradesh	",India,342315,883230,356170
+20200816,909474,bags,accessories,3,364385,Skybags,Medium,53,Indore,"Madhya Pradesh	",India,539508,256014,899066
+20211101,162515,mascara,cosmetic,1,595057,Lakme,High,74,Chandigarh,"Punjab	",India,974143,787570,351858
+20190319,382525,cc cream,cosmetic,4,799330,Lakme,High,93,Ranchi,"Jharkhand	",India,762242,374177,640029
+20210923,371663,sweatshirt,cloths,4,692099,Puma,Medium,69,Bengaluru,"Karnataka	",India,254871,979525,290028
+20190226,497581,mascara,cosmetic,3,354730,Lakme,High,58,Dispur,Assam,India,361073,250756,102674
+20190224,343989,sneakers,cloths,2,881205,addidas,High,77,Kohima,"Nagaland	",India,927577,363055,223134
+20200721,974434,sneakers,cloths,4,276686,addidas,High,91,Shimla,"Himachal Pradesh	",India,411652,176795,804503
+20190505,460678,bags,accessories,2,851014,Skybags,Medium,89,Jaipur,"Rajasthan	",India,135835,643209,385750
+20191006,795667,mascara,cosmetic,4,755810,Lakme,High,68,Chennai,"Tamil Nadu	",India,275692,444599,647068
+20190101,822758,sweatshirt,cloths,2,314780,Puma,Medium,66,Indore,"Madhya Pradesh	",India,213371,409077,116841
+20210603,450629,heels,cloths,4,986171,Mochi,High,62,Kolkata,West Bengal,India,303827,373938,795221
+20210609,627463,mascara,cosmetic,4,566513,Lakme,High,91,Chennai,"Tamil Nadu	",India,804462,854964,981333
+20200620,334341,cc cream,cosmetic,4,899918,Lakme,High,61,Indore,"Madhya Pradesh	",India,254540,189811,546305
+20211105,358475,sweatshirt,cloths,5,355657,Puma,Medium,68,Gangtok,"Sikkim	",India,298997,343664,517442
+20201011,667651,cc cream,cosmetic,3,482890,Lakme,High,55,Kolkata,West Bengal,India,574500,460177,238590
+20210105,455910,heels,cloths,1,891472,Mochi,High,58,Imphal,"Manipur	",India,955059,822899,673247
+20210712,738319,bags,accessories,2,683791,Skybags,Medium,98,Shilong,"Meghalaya	",India,610233,315735,955276
+20201206,372898,heels,cloths,4,114960,Mochi,High,79,Itanagar,Arunachal Pradesh,India,638289,692128,733031
+20200107,996702,cc cream,cosmetic,2,188840,Lakme,High,72,Bengaluru,"Karnataka	",India,678457,668059,630393
+20210301,355313,pants,cloths,3,285364,Spykar,Medium,75,Dispur,Assam,India,249582,652381,884001
+20210712,956292,heels,cloths,5,159167,Mochi,High,55,Patna,Bihar,India,974598,643289,931264
+20210320,574392,bags,accessories,4,675729,Skybags,Medium,81,Chennai,"Tamil Nadu	",India,484404,999831,548827
+20200729,959364,mascara,cosmetic,3,788385,Lakme,High,61,Kolkata,West Bengal,India,727977,821178,700038
+20210727,114078,mascara,cosmetic,3,778626,Lakme,High,54,Chandigarh,"Punjab	",India,442887,812866,692294
+20200822,960107,sweatshirt,cloths,5,718456,Puma,Medium,89,Ranchi,"Jharkhand	",India,910238,804267,287993
+20191117,838452,sweatshirt,cloths,1,140331,Puma,Medium,97,Chatra,"Jharkhand	",India,319380,595253,226491
+20200308,791120,pants,cloths,4,935153,Spykar,Medium,80,Agartala,"Tripura		",India,277913,868732,218898
+20200429,458532,pants,cloths,3,514055,Spykar,Medium,83,Hyderabad,"Telangana	",India,798036,277195,503586
+20191112,743273,heels,cloths,3,508007,Mochi,High,88,Varanasi,"Uttar Pradesh	",India,443450,214432,620242
+20210601,453016,cc cream,cosmetic,4,432044,Lakme,High,82,Chandigarh,"Punjab	",India,340425,628751,743957
